@@ -1,0 +1,23 @@
+{
+  "name": "net-ninja-book",
+  "version": "1.0.0",
+  "description": "A Simple Set up Tutorial to show case how bootstrap 5.0 works with HTML5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canicemichael/Net-Ninja-Book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canicemichael/Net-Ninja-Book/issues"
+  },
+  "homepage": "https://github.com/canicemichael/Net-Ninja-Book#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "dotenv": "^16.0.0"
+  }
+}
